@@ -56,5 +56,8 @@
     "vite": "^4.4.8",
     "vite-plugin-dts": "^3.4.0",
     "vite-plugin-solid": "^2.7.0"
+  },
+  "peerDependencies": {
+    "solid-js": "*"
   }
 }

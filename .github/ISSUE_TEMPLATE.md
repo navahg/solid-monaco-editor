@@ -25,7 +25,7 @@
 
 | software                 | version
 | -------------------------| -------
-| solid-monaco-editor |
+| solid-monaco-editor      |
 | solid-js                 |
 | npm or yarn              |
 | node                     |
