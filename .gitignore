@@ -1,0 +1,20 @@
+# Yarn ignore list (no zero-installs)
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
+
+# Lib files
+node_modules
+
+# Built files
+built
+dist
+
+# Others
+.DS_Store
+.cache
+.vscode
